@@ -18,3 +18,8 @@ Installation
 2. Sign in to Koken, then visit the Settings > Plugins page to activate the plugin.
 
 3. Once activated, click the Setup button and then enter your tracking ID.
+
+Changelog stkie
+---------------
+
+2013-04-01	ensure anonymized collection of IP addresses

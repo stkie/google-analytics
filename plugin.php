@@ -16,6 +16,7 @@ class KokenGoogleAnalytics extends KokenPlugin {
 
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', '{$this->data->tracking_id}']);
+	_gaq.push (['_gat._anonymizeIp']);
  	_gaq.push(['_trackPageview']);
 
  	(function() {
